@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ArpitSahu2/leetcode/tree/master/0020-valid-parentheses) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/ArpitSahu2/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Simulation
 |  |
@@ -31,4 +32,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ArpitSahu2/leetcode/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ArpitSahu2/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ArpitSahu2/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
